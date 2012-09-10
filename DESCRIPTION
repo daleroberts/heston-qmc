@@ -1,0 +1,11 @@
+Package: volmodels
+Type: Package
+Title: Stochastic volatility models
+Version: 1.0
+Date: 2012-09-10
+Author: Dale Roberts
+Maintainer: Dale Roberts <dale.roberts@anu.edu.au>
+Description: Stochastic volatility models
+License: GPL
+Depends: Rcpp (>= 0.9.10), fOptions
+LinkingTo: Rcpp
